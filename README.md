@@ -8,7 +8,7 @@
 
 ---
 
-✦ Pursuing **B.Tech CSE (Data Science)** at PSIT Kanpur · SGPA 7.9  
+✦ Pursuing **B.Tech CSE (Data Science)** 
 ✦ Final Year · Graduating 2027  
 ✦ Open to **SDE** and **Data Analyst** roles  
 
@@ -26,9 +26,11 @@
 
 | Project | Tech | Live |
 |---|---|---|
+
 | 🔍 AI Code Review Intelligence | CodeBERT · XGBoost · NetworkX · Streamlit | [Live Demo](https://ai-code-review-intelligence-hqkxc5n4gjutjgapptjbvqd.streamlit.app) |
+
 | 🚗 DriveZen — AI Driving Safety | React Native · Flask · OpenCV · Scikit-learn | [GitHub](https://github.com/Nishka2505/DriveZen) |
-| 📄 ResuMate — Resume Parser | LangChain · OpenAI · FastAPI · Next.js | [GitHub](https://github.com/Nishka2505) |
+
 
 ---
 
